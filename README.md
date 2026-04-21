@@ -1,5 +1,5 @@
 # Hi there, I'm Truong Gia Lam 👋
-**AI Researcher | Edge Computing Specialist | Data Science**
+**AI Researcher | Automation Engineer | Edge Computing Specialist | Data Science **
 
 I am a Data Science student at HUFLIT, specializing in Deep Learning, model optimization, and deploying high-performance AI on resource-constrained hardware. 
 
