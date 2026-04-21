@@ -9,7 +9,3 @@ I am a Data Science student at HUFLIT, specializing in Deep Learning, model opti
 * **Hardware:** ESP32-S3, Orange Pi 5, Jetson Nano, Raspberry Pi, Android Edge Devices.
 * **Languages & Tools:** Python (PyTorch, OpenCV), C++ (Arduino/ESP-IDF), Git, Linux.
 
-
-### 📫 Let's Connect
-* **Email:** gialam.thquiduc@gmail.com 
-* **LinkedIn:** [Lâm Trương](https://linkedin.com/in/Lâm Trương)
