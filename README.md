@@ -13,7 +13,7 @@ I am a Data Science student at HUFLIT, specializing in Deep Learning, model opti
 * 🏆 **Best Paper Award (CATAE 2026):** Developed an NMS-free YOLO26 framework achieving 46x model compression and 27x speedup on mobile devices.
 * 📝 **Publications (2026):** Lead & Main Contributor for edge AI systems in footwear defect inspection (MLCI) and drowsiness detection smart helmets (CUTE).
 * 🔬 **Ongoing Focus:** Quantized Text2SQL engines and Multimodal Recognition for industrial edge devices.
-* 🤖 **Applied AI:** Lead Developer for a RAG-based offline election chatbot and Top 20 Finalist at BachKhoa Innovation 2025.
+* 🤖 **Applied AI:** Developer for a RAG-based offline election chatbot and Top 20 Finalist at BachKhoa Innovation 2025.
 
 ### 📫 Let's Connect
 * **Email:** gialam.thquiduc@gmail.com 
